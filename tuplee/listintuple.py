@@ -1,0 +1,5 @@
+a = ('ravi', 'mani','guru')
+b=list(a)
+b.append("kavin")
+c=tuple(b)
+print(c) 
