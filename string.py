@@ -8,6 +8,7 @@ b=print(a[8])
 #3
 a='Gurudev'
 b=print(a[5])
+c=print(len(a))
 
 
 #length of string
